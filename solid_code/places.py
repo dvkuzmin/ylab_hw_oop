@@ -14,14 +14,14 @@ class Kostroma(Place):
     name = 'Kostroma city'
 
     def get_antagonist(self):
-        print('Orcs hid in the forest')
+        print("Orcs hid in the forest")
 
 
 class Tokyo(Place):
     name = 'Tokyo city'
 
     def get_antagonist(self):
-        print('Godzilla stands near a skyscraper')
+        print("Godzilla stands near a skyscraper")
 
 
 class Crypton(Place):
